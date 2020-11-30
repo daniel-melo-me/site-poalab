@@ -1,0 +1,254 @@
+{
+  "main": {
+    "name":"POALAB",
+    "description":"Atenção! Estamos Mudando de sala",
+    "description1":"Continuaremos no campus Porto Alegre do IFRS voltamos em breve",
+    "image":"profilepic.jpg",
+    "bio":"O POALAB é um laboratório de fabricação digital e está conectado à rede mundial de fab labs. Opera como um programa de extensão do IFRS campus Porto Alegre.",
+    "bio1":"Temos como missão popularizar o acesso e letramento na fabricação digital, funcionando como uma plataforma de criatividade, aprendizagem e invenção.",
+    "bio2":"Ser um Fab Lab significa estar conectado a uma comunidade mundial de alunos, educadores, técnicos, pesquisadores e inovadores e desenvolver atividades dentro da filosofia do conhecimento aberto.",
+    "bio3":"Os open days são um dos requisitos para a existência de um fab lab. Nestes dias, a comunidade externa têm a possibilidade de conhecer as ferramentas existentes no lab e aprender sobre fabricação digital.",
+    "bio4":"Cada fab lab possui suas regras de open day",
+    "bio5":"Essas são as regras do PoaLab: Não existe custo para acessar o lab ou utilizar as máquinas; Não existe reserva de equipamento; Os usuários são convidados a cadastrar os seus projetos no sistema de projetos do PoaLab para compartilhamento com a comunidade; Os usuários devem trazer os insumos necessários para os projetos; Temos material, equipamento, pessoal e disposição para atender a todos, independente de conhecimento; Em 2 anos de funcionamento a faixa etária de usuários variou entre 5 e 76 anos... queremos avançar nos dois limites; O objetivo do lab é o de disseminar conhecimento -- se você não tem nenhum conhecimento sobre fabricação digital, o lab foi feito pra você.",
+    "bio6":"Continua com dúvidas? Mande mensagem via email ou via página do facebook !",
+    "contactmessage":"Coordenação: André Peres",
+    "contactmessage1":"andre.peres@poa.ifrs.edu.br",
+    "contactmessage2":"R. Cel. Vicente, 281 Sala 1016 - Torre Sul Centro Histórico  Porto Alegre - RS CEP: 90030-041",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "facebook":"https://www.facebook.com/poalab",
+    "youtube":"https://www.youtube.com/channel/UCWZzR8M4KKD6l7hpOZb9viA",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/poalab",
+        "className":"fa fa-facebook"
+      },
+      {
+
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCWZzR8M4KKD6l7hpOZb9viA",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Impressão 3D",
+        "category":"",
+        "image":"Impressao3D.png",
+        "url":"https://cta-ifrs.github.io/Text2Braille3d/"
+      },
+      {
+        "title":"Thingiverse",
+        "category":"",
+        "image":"thingiverse.png",
+        "url":"https://www.thingiverse.com/"
+      },
+      {
+        "title":"Instructables",
+        "category":"",
+        "image":"InstructablesRobot.png",
+        "url":"https://www.instructables.com/"
+      },
+      {
+        "title":"Opendesk",
+        "category":"",
+        "image":"opendesk.png",
+        "url":"https://www.opendesk.cc/"
+      },
+      {
+        "title":"Fab Academy",
+        "category":"",
+        "image":"fabacademy.png",
+        "url":"http://fabacademy.org/"
+      },
+      {
+        "title":"Fab Foundation",
+        "category":"",
+        "image":"fabfoundation.png",
+        "url":"https://fabfoundation.org/"
+      },
+      {
+        "title":"Fab City",
+        "category":"",
+        "image":"fabcity.png",
+        "url":"https://fab.city/"
+      },
+      {
+        "title":"Make Magazine",
+        "category":"",
+        "image":"make.png",
+        "url":"https://makezine.com/"
+      },
+      {
+        "title":"Tinkercad",
+        "category":"",
+        "image":"tinkercad.png",
+        "url":"https://www.tinkercad.com/"
+      },
+      {
+        "title":"Inkscape",
+        "category":"",
+        "image":"inkscape.png",
+        "url":"https://inkscape.org/pt-br/"
+      },
+      {
+        "title":"MakerCase",
+        "category":"",
+        "image":"makercase.png",
+        "url":"https://www.makercase.com/#/"
+      },
+      {
+        "title":"RBAC",
+        "category":"",
+        "image":"rbac.png",
+        "url":"https://aprendizagemcriativa.org/pt-br"
+      },
+      {
+        "title":"POA Mini Maker Faire",
+        "category":"",
+        "image":"makepoa.png",
+        "url":"https://portoalegre.makerfaire.com/"
+      },
+      {
+        "title":"Projeto Nativos Fabbers",
+        "category":"",
+        "image":"NativosFabbers.png",
+        "url":"https://poalab.net.br/fabbernatives/"
+      }
+    ]
+  },
+  "portfolio1":{
+    "projects": [
+      {
+        "title":"",
+        "category":"",
+        "image":"bancada.png",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4918.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4920.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4921.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4923.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4924.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4925.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4940.jpg",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"DSC_4944.jpg",
+        "url":""
+      }
+    ]
+  }
+  
+  
+   
+  
+}

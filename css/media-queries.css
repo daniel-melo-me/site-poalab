@@ -49,13 +49,13 @@
 
    /* About Section
    ------------------------------------------------------------------- */
-   #about .profile-pic {
+   #poalab .profile-pic {
       width: 114px;
       height: 114px;
       margin-left: 12px;
    }
-   #about .contact-details { width: 50%; }
-   #about .download { width: 50%; }
+   #poalab .contact-details { width: 50%; }
+   #poalab .download { width: 50%; }
 
    /* Resume Section
    ------------------------------------------------------------------- */
@@ -82,12 +82,12 @@
 
    /* Contact Section
    ------------------------------------------------------------------- */
-   #contact .section-head { margin-bottom: 30px; }
-   #contact .header-col h1:before {
+   #contato .section-head { margin-bottom: 30px; }
+   #contato .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
-   #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
+   #contato .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
 
 }
@@ -254,7 +254,7 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
+   #link-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
 
