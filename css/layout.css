@@ -181,46 +181,46 @@ ul#nav li.current a { color: #3E7BC1; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#about {
+#poalab {
    background: #223344;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #0762f9; }
+#poalab a, #poalab a:visited  { color: #fff; }
+#poalab a:hover, #poalab a:focus { color: #0762f9; }
 
-#about h2 {
+#poalab h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#about p {
+#poalab p {
    line-height: 30px;
    color: #ccc;
 }
-#about .profile-pic {
+#poalab .profile-pic {
    position: relative;
    width: 120px;
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
-#about .download {
+#poalab .contact-details { width: 41.66667%; }
+#poalab .download {
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
-#about .download .button {
+#poalab .main-col { padding-right: 5%; }
+#poalab .download .button {
    margin-top: 6px;
    background: #444;
 }
-#about .download .button:hover {
+#poalab .download .button:hover {
    background: #fff;
    color: #2B2B2B;
 }
-#about .download .button i {
+#poalab .download .button i {
    margin-right: 15px;
    font-size: 20px;
 }
