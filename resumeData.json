@@ -1,16 +1,23 @@
 {
   "main": {
-    "name":"Daniel",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"POALAB",
+    "description":"Atenção! Estamos Mudando de sala",
+    "description1":"Continuaremos no campus Porto Alegre do IFRS voltamos em breve",
     "image":"profilepic.jpg",
     "bio":"O POALAB é um laboratório de fabricação digital e está conectado à rede mundial de fab labs. Opera como um programa de extensão do IFRS campus Porto Alegre.",
     "bio1":"Temos como missão popularizar o acesso e letramento na fabricação digital, funcionando como uma plataforma de criatividade, aprendizagem e invenção.",
-    "bio2":"Ser um Fab Lab significa estar conectadoa uma comunidade mundial de alunos, educadores, técnicos, pesquisadores e inovadores e desenvolver atividades dentro da filosofia do conhecimento aberto.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio2":"Ser um Fab Lab significa estar conectado a uma comunidade mundial de alunos, educadores, técnicos, pesquisadores e inovadores e desenvolver atividades dentro da filosofia do conhecimento aberto.",
+    "bio3":"Os open days são um dos requisitos para a existência de um fab lab. Nestes dias, a comunidade externa têm a possibilidade de conhecer as ferramentas existentes no lab e aprender sobre fabricação digital.",
+    "bio4":"Cada fab lab possui suas regras de open day",
+    "bio5":"Essas são as regras do PoaLab: Não existe custo para acessar o lab ou utilizar as máquinas; Não existe reserva de equipamento; Os usuários são convidados a cadastrar os seus projetos no sistema de projetos do PoaLab para compartilhamento com a comunidade; Os usuários devem trazer os insumos necessários para os projetos; Temos material, equipamento, pessoal e disposição para atender a todos, independente de conhecimento; Em 2 anos de funcionamento a faixa etária de usuários variou entre 5 e 76 anos... queremos avançar nos dois limites; O objetivo do lab é o de disseminar conhecimento -- se você não tem nenhum conhecimento sobre fabricação digital, o lab foi feito pra você.",
+    "bio6":"Continua com dúvidas? Mande mensagem via email ou via página do facebook !",
+    "contactmessage":"Coordenação: André Peres",
+    "contactmessage1":"andre.peres@poa.ifrs.edu.br",
+    "contactmessage2":"R. Cel. Vicente, 281 Sala 1016 - Torre Sul Centro Histórico  Porto Alegre - RS CEP: 90030-041",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "facebook":"https://www.facebook.com/poalab",
+    "youtube":"https://www.youtube.com/channel/UCWZzR8M4KKD6l7hpOZb9viA",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -22,28 +29,14 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/poalab",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCWZzR8M4KKD6l7hpOZb9viA",
+        "className":"fa fa-youtube"
       }
     ]
   },
@@ -253,76 +246,9 @@
         "url":""
       }
     ]
-  },
-  "portfolio2":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "portfolio3":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
   }
-
   
+  
+   
   
 }
